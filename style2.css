@@ -1,0 +1,196 @@
+ *{
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial;
+    
+    
+}
+body{
+   background-color: white;
+}
+.navbar{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(253, 246, 246, 0.867);
+color: black;
+margin: 0px 10px;
+height: 70px;
+width: 100%;
+}
+.nacser{
+   font-size: 1.4rem;
+   margin: 0px 10px;
+}
+.nacser input {
+    height: 40px;
+    width: 560px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+   color: #777a7e;
+   background-color: #f0f5ff;
+   border: none;
+   outline: none;
+   font-size: 1.1rem;
+   
+}
+.ss{
+  font-size: 0.7rem;
+   
+} 
+ 
+                /* SECTION TAB */
+.bar{
+   height: 126px;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   font-weight: 700;
+   margin-left: 10px;
+   margin-right: 10px;
+   background-color: white;
+} 
+.headimg{
+   
+   height: 150px;
+   width: 2000px;
+}
+.product1{
+   height: 345px;
+   width: 100%;
+   display: flex;
+   margin-top: 10px;
+}
+.productinfo{
+   display: flex;
+   align-items: center;
+
+}
+.login:hover:hover{
+   background-color: rgb(149, 149, 240);
+}
+.outer{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 20px;
+   height: 300px;
+   background-color: white;
+}
+.cl{
+   height: 250px;
+   width: 200px;
+   background-color: white;
+  margin-top: 20px;
+  border: 1px solid silver;
+}
+.cloths{
+   margin-left: 5px;
+   margin-right: 5px; 
+   
+   background-size: cover;
+}
+.hg{
+ 
+ margin-left: 5px;
+ margin-right: 5px;
+ margin-top: 10px;
+ border-radius: 5px;
+}
+.hc{
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-top: 10px;
+  
+}
+.text{
+   background-color: white;
+}
+.chilli{
+  background-image: url('chill.jpg');
+  height: 145px;
+  width: 1600px;
+}
+.winouter{
+    height: 200px;
+   width: 1600px;
+   display: flex;
+   justify-content: space-evenly;
+   align-self: center;
+   margin-top: 10px;
+
+}
+.windo{
+   height: 200px;
+   width: 1600px;
+   display: flex;
+   justify-content: space-evenly;
+   align-self: center;
+margin-top: 90px;
+}
+.flying{
+   background-image: url('flighttt.jpg');
+   height: 250px;
+   width: 1600px;
+   margin-top: 100px;
+}
+
+
+
+footer{
+   margin-top: 80px;
+  }
+.foot1{
+background-color: rgb(59, 54, 54);
+color: white;
+height: 50px;
+display:flex;
+justify-content: center;
+align-items: center;
+}  
+.foot2{
+background-color:  rgb(59, 54, 54);
+color: white;
+height: 500px;   
+display: flex;
+justify-content: space-evenly;
+}  
+ul{
+margin-top: 10px;
+}
+ul a{
+display: block;
+font-size: 0.85rem;
+margin-top: 10px;
+color: #dddddd;
+}
+.foot3{
+background-color:  rgb(59, 54, 54);
+color: #f3f3f3;
+border-top: 0.5px solid white;
+height: 68px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.fimg{
+  
+   
+   height: 50px;
+   width: 100px;
+}
+.copy{
+background-color:  rgb(59, 54, 54);
+color: white;
+justify-content: center;
+align-items: center;
+font-size: 0.85rem;
+text-align: center;
+padding: 25px;
+}
+.jay{
+align-items: center;
+}
+
+
+
